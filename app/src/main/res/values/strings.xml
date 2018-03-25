@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My City</string>
+    <string name="riyadh_city">Riyadh</string>
+    <string name="Tabok_city">Tabok</string>
+    <string name="Jeddah_city">Jeddah</string>
+    <string name="mamlakah_tower">mamlakah</string>
+    <string name="phaysaleyah_tower">phayslyah</string>
+    <string name="dec_mamlakah">This building is the tallest building in The Kingdom of Saudi Arabia</string>
+    <string name="dec_pahysaliya">this building is contain one of the most famous malls in riyadh</string>
+    <string name="butchershop">butchershop</string>
+    <string name="decButchershop">one of the best restaurant in riyadh</string>
+    <string name="jeddah_Altahlayh">Altahlayh</string>
+    <string name="dec_tahlia">this place gather the best restaurant in jeddah</string>
+    <string name="dec_water_fountain">The tallest water fountain in the world</string>
+    <string name="JeddahCoffee">Coffee</string>
+    <string name="decCoffee">good place to relax and drink coffee</string>
+    <string name="water_fountain">water fountain</string>
+    <string name="jeddahmall">Jeddah Mall</string>
+    <string name="decMall">one of the best places in jeddah</string>
+    <string name="Tabok_Alsahba">Alsahba</string>
+    <string name="decMountin">onw of the best places in tabok</string>
+    <string name="Tabok_aljof">Aljof</string>
+    <string name="decJof">best place in tabok for relaxing</string>
+    <string name="tabokBeach">tabok Beach</string>
+    <string name="decBeach">other place for relaxing</string>
+</resources>
